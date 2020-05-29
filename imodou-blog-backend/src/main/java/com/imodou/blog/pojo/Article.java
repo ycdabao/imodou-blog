@@ -16,7 +16,7 @@ public class Article {
     private String title;
     private String summary;
     private String content;
-    private Long views;
+    private Long viewscount;
     private Long commentcount;
     private Date pubdate;
     private Date modifydate;
